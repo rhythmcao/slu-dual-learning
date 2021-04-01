@@ -1,0 +1,16 @@
+exp*
+log
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+*/*/*/*/__pycache__/
+*.pyc
+*/*.pyc
+*/*/*.pyc
+*/*/*/*.pyc
+data/.cache
+data/*/vocab.*
+data/*/*.json
+data/*/labeled*/*
+tmp
+.vscode
